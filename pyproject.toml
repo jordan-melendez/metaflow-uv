@@ -2,13 +2,12 @@
 name = "metaflow-uv"
 version = "0.1.0"
 description = "Nothing important."
-readme = "README.md"
 authors = [
     { name = "Jordan Melendez" }
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "metaflow>=2.15.9",
+    "metaflow>=2.15.14",
     "numpy==1.26.4",
     "pandas==2.0.*",
 ]
